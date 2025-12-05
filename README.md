@@ -1,2 +1,46 @@
-# Projeto-final-Autono
-Autono é um site institucional que apresenta a empresa de automação inteligente, destacando sua missão, visão, valores e principais soluções em tecnologia. O objetivo é mostrar de forma clara e moderna como a Autono transforma processos, melhora a eficiência e ajuda organizações por meio de automações e inteligência de dados.
+🌐 Autono — Projeto Final
+👥 Integrantes
+
+Rayssa Rebeca
+
+Thaeme Oliveira
+
+Ana Luiza
+
+Matheus Larangeira
+
+🧩 Forma de Trabalho (Workflow)
+
+Usamos o modelo Feature Branch:
+
+Cada pessoa cria sua própria branch.
+
+Cada um trabalha apenas na sua branch.
+
+Quando terminar, faz o merge para a main.
+
+📌 Branches
+feature/homepage
+feature/contato
+feature/servicos
+feature/estilos
+
+📁 Estrutura do Projeto
+index.html
+/assets
+   /css
+   /img
+   /js
+README.md
+
+🛠 Tecnologias
+
+HTML
+
+CSS
+
+GitHub
+
+🎯 Objetivo
+
+Criar o site da empresa fictícia Autono usando HTML, CSS e GitHub de forma organizada e colaborativa.
